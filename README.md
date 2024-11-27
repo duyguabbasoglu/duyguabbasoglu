@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Duygu :)
-- 👀 I’m interested in sports, cooking and reading
+- 👀 I’m interested in sports, cooking, watching and reading
 - 🌱 I’m currently learning CTIS
 - 💞️ I’m looking to collaborate on my mentality
 - 📫 How to reach me (really? You wished that?? NOW; I'M HAPPY :))
