@@ -1,12 +1,14 @@
-- 👋 Hi, I’m Duygu :)
-- 👀 I’m interested in sports, cooking, watching and reading
-- 🌱 I’m currently learning CTIS
-- 💞️ I’m looking to collaborate on my mentality
-- 📫 How to reach me (really? You wished that?? NOW; I'M HAPPY :))
-- 😄 Pronouns: kari bayani
-- ⚡ Fun fact: 1.5 iskender severim
 
-<!---
-duyguabbasoglu/duyguabbasoglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  🌟 A sophomore **Computer Technology and Information Systems** student at Bilkent University.
+Passionate about **technology**, **software development**, and **problem-solving**.
+I enjoy sports, watching movies & series, reading and cooking.
+
+  💻 Skills
+- **Programming Languages**: C, C++, Java, SQL, Linux Shell Scripting, HTML, CSS, JavaScript
+
+  
+  ✨ Fun Fact
+- 1.5 iskender severim.
+
+  🌱 For Contact:
+- you can mail me via duygua963@gmail.com or message from here.
