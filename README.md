@@ -1,7 +1,8 @@
 
   🌟 A sophomore **Computer Technology and Information Systems** student at Bilkent University.
-Passionate about **technology**, **software development**, and **problem-solving**.
-I enjoy sports, watching movies & series, reading and cooking.
+- Passionate about **technology**, **software development**, and **problem-solving**.
+- I enjoy sports, watching movies & series, reading and cooking.
+
 
   💻 Skills
 - **Programming Languages**: C, C++, Java, SQL, Linux Shell Scripting, HTML, CSS, JavaScript
