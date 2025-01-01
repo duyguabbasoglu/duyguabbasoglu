@@ -1,5 +1,6 @@
 
-## 🌟 A sophomore CTIS student at Bilkent University.
+## 👀 About Me
+- A sophomore CTIS student at Bilkent University.
 - Passionate about **technology**, **software development**, and **problem-solving**.
 - I enjoy sports, watching movies & series, reading and cooking.
 
