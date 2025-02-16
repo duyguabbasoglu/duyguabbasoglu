@@ -6,7 +6,7 @@
 
 
 ## 💻 Skills
-- **Programming Languages**: C, C++, Java, SQL, Linux Shell Scripting, HTML, CSS, JavaScript
+- **Programming Languages**: C, C++, C# Java, SQL, Linux Shell Scripting, HTML, CSS, JavaScript
 
   
 ## ✨ Fun Fact
