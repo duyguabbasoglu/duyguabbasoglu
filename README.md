@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F72585&width=435&lines=Hi!+I'm+Duygu+Abbasoğlu;" />
+  <h3 align="center">🧚‍♀️ Junior CTIS student at Bilkent University.</h3>
 </p>
 
 <p align="center">
