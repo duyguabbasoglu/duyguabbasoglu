@@ -1,15 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F72585&width=435&lines=Hey,+I'm+Duygu+Abbasoğlu!+🦋" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=C77DFF&center=true&vCenter=true&width=435&lines=🦋+Duygu+Abbasoğlu!" />
 </p>
 
 <h4 align="center">🧚‍♀️ Junior CTIS student at Bilkent University.</h4>
 
 <p align="center">
-  <a href="https://linkedin.com/in/duyguabbasoglu">
-    <img src="https://img.shields.io/badge/-LinkedIn-5865F2?style=flat&logo=linkedin&logoColor=white"/>
+  <a href="[https://linkedin.com/in/duyguabbasoglu](https://www.linkedin.com/in/duygu-abbasoglu/)">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:duygua963@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4C89?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
   </a>
 </p>
 
