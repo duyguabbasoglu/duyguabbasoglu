@@ -10,8 +10,8 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:duygua963@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
+  <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email Badge"/>
+</a>
   </a>
 </p>
 
