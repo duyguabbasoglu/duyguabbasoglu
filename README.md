@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=C77DFF&center=true&vCenter=true&width=435&lines=+Hi!+I'm+Duygu+Abbasoğlu+🧚‍♀️" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=C77DFF&center=true&vCenter=true&width=435&lines=+Hi!+I'm+Duygu+Abbasoğlu+" />
 </p>
 
-<h4 align="center">🌱 Junior CTIS student at Bilkent University</h4>
+<h4 align="center" color="lightblue">Junior CTIS student at Bilkent University 🧚‍♀️</h4>
 
+<p align="center">🌱 For Contact:</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/duygu-abbasoglu" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" alt="LinkedIn" width="44" />
