@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-    <h5>🌱 For contact: </h5>
+    🌱 For contact:
   <a href="https://linkedin.com/in/duyguabbasoglu">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
