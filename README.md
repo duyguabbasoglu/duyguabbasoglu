@@ -2,14 +2,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=C77DFF&center=true&vCenter=true&width=435&lines=+Hi!+I'm+Duygu+Abbasoğlu+" />
 </p>
 
-<h4 align="center">🧚‍♀️ Junior CTIS student at Bilkent University.</h4>
+<h4 align="center">🧚‍♀️ Junior CTIS student at Bilkent University</h4>
 
+<p align="center">📬 For Contact:</p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/duygu-abbasoglu">
-    <img src="https://img.shields.io/badge/in-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/duygu-abbasoglu" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:duygua963@gmail.com">
-    <img src="https://img.shields.io/badge/%F0%9F%93%A7%20EMAIL-C14438?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:duygua963@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-C14438?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
