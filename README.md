@@ -4,17 +4,16 @@
 - Passionate about technology, software development, and problem-solving.
 - I enjoy sports, watching movies & series, reading and cooking.
 
-# 🧰 Tech Stack
+## Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-# 📊 GitHub Stats
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duyguabbasoglu&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kullaniciadi&layout=compact&theme=radical)
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=duyguabbasoglu&show_icons=true&theme=radical&count_private=true" width="420"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyguabbasoglu&layout=compact&theme=radical" width="300"/> </p>
 
 ## ✨ Fun Fact
 - 1.5 iskender severim.
