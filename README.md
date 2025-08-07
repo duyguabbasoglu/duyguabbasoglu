@@ -6,8 +6,8 @@
 
 <p align="center">🌱 For Contact:</p>
 <p align="center">
-  <a href="https://linkedin.com/in/duyguabbasoglu">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/duygu-abbasoglu" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:duygua963@gmail.com" target="_blank">
