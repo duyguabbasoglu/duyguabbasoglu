@@ -7,7 +7,7 @@
 <p align="center">🌱 For Contact:</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/duygu-abbasoglu" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" alt="LinkedIn" width="38" />
+    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" alt="LinkedIn" width="48" />
   </a>
   &nbsp;&nbsp;&nbsp;
  <a href="mailto:duygua963@gmail.com">
