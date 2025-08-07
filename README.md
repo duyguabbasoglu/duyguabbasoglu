@@ -1,4 +1,15 @@
+<h3 align="center">🧚‍♀️ Junior CTIS student at Bilkent University.</h3>
 
+<p align="center">
+  <a href="https://linkedin.com/in/duyguabbasoglu" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-5865F2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:duygua963@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-8e44ad?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F72585&width=435&lines=Hi!+I'm+Duygu+Abbasoğlu;Junior+CTIS+Student+%F0%9F%A7%99%E2%80%8D%E2%99%80%EF%B8%8F" />
@@ -43,6 +54,6 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duyguabbasoglu&show_icons=true&theme=radical&count_private=true" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyguabbasoglu&layout=compact&theme=radical" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=duyguabbasoglu&show_icons=true&theme=purple&count_private=true" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyguabbasoglu&layout=compact&theme=purple" width="300"/>
 </div>
