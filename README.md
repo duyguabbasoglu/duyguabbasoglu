@@ -1,15 +1,15 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F72585&width=435&lines=++Hi,+I'm+Duygu+Abbasoğlu+!;" />
-  <h4 align="center">🧚‍♀️ Junior CTIS student at Bilkent University.</h4>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F72585&width=435&lines=Hey,+I'm+Duygu+Abbasoğlu!+🦋" />
 </p>
 
-<h5 align="center">🌱 For contact: </h5>
+<h4 align="center">🧚‍♀️ Junior CTIS student at Bilkent University.</h4>
+
 <p align="center">
   <a href="https://linkedin.com/in/duyguabbasoglu">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-5865F2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:duygua963@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Email-EA4C89?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 
 ### 🚀 Tech Stack
 <div align="center">
-  
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
