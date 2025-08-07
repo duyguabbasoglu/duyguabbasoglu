@@ -7,10 +7,11 @@
 <p align="center">🌱 For Contact:</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/duygu-abbasoglu" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:duygua963@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-C14438?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="40" />
   </a>
 </p>
 
