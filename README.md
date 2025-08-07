@@ -6,10 +6,9 @@
 
 <p align="center">🌱 For Contact:</p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/duygu-abbasoglu/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/duygu-abbasoglu">
+    <img src="https://img.shields.io/badge/in-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
   &nbsp;&nbsp;
  <a href="mailto:duygua963@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
