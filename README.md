@@ -5,15 +5,14 @@
 <h4 align="center">🧚‍♀️ Junior CTIS student at Bilkent University.</h4>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/duygu-abbasoglu/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/duygu-abbasoglu">
+    <img src="https://img.shields.io/badge/in-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:duygua963@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email Badge"/>
-</a>
+  <a href="mailto:duygua963@gmail.com">
+    <img src="https://img.shields.io/badge/%F0%9F%93%A7%20EMAIL-C14438?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
