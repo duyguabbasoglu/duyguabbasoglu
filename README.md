@@ -5,7 +5,7 @@
 
 
 ### Tech Stack
-<div align="left">
+<div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -29,4 +29,4 @@
 
 
 ### GitHub Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=duyguabbasoglu&show_icons=true&theme=radical&count_private=true" width="420"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyguabbasoglu&layout=compact&theme=radical" width="300"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=duyguabbasoglu&show_icons=true&theme=radical&count_private=true" width="420"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyguabbasoglu&layout=compact&theme=radical" width="300"/> </p>
